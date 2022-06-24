@@ -1,0 +1,35 @@
+  BloodBankManagementSystem.MyForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Blood Bank Management System, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class BloodBankManagementSystem.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Sign_Donor(): PrivateScope, Public, HideBySig
+    Sign_Recipient(): PrivateScope, Public, HideBySig
+    Signout_Donor(): PrivateScope, Public, HideBySig
+    Signout_Recipient(): PrivateScope, Public, HideBySig
+    Save_Donor(): PrivateScope, Public, HideBySig
+    Save_Recipient(): PrivateScope, Public, HideBySig
+    change_Recipient(): PrivateScope, Public, HideBySig
+    change_Donor(): PrivateScope, Public, HideBySig
+    delete_Recipient(): PrivateScope, Public, HideBySig
+    delete_Donor(): PrivateScope, Public, HideBySig
+    make_Donation(): PrivateScope, Public, HideBySig
+    make_Request(): PrivateScope, Public, HideBySig
+    start(): PrivateScope, Public, HideBySig
+    end(): PrivateScope, Public, HideBySig
+    show_data_dataf(unordered_map<int\,Blood \*\,std::hash<int>\,std::equal_to<int>\,std::allocator<std::pair<int const \,Blood \*> > >*): PrivateScope, Public, HideBySig

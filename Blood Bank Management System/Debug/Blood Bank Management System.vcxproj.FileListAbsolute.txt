@@ -1,0 +1,3 @@
+C:\Users\gorge\source\repos\Blood Bank Management System\Blood Bank Management System\Debug\Blood Bank Management System.vcxprojAssemblyReference.cache
+C:\Users\gorge\source\repos\Blood Bank Management System\Blood Bank Management System\Debug\BloodBankManagementSystem.MyForm.resources
+C:\Users\gorge\source\repos\Blood Bank Management System\Blood Bank Management System\Debug\Blood Bank Management System.vcxproj.GenerateResource.cache
