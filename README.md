@@ -51,17 +51,14 @@ A user could be donor or recipient:
     c. Received and Expiry dates
     g. Request the blood type and quantity 
 
-● Clean and Efficient Code .
-● I used hash table to save data , vector .
-● save the data using files.
-
-
 
 Development Tool :
 - Visual Studio 
 - C++ Language
-- clr (gui)
-
+- Clr (gui)
+- Data Structures(hash table , vector)
+- Save the data using files (.txt)
+- oop
 
 
 https://user-images.githubusercontent.com/90850256/175697888-107e16d1-f4a1-4ac1-9d44-70e768882f45.mp4
